@@ -1,0 +1,125 @@
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\SPA_MVC_StudentInfo.dll.config
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\SPA_MVC_StudentInfo.dll
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\SPA_MVC_StudentInfo.pdb
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Antlr3.Runtime.dll
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\EntityFramework.dll
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\EntityFramework.SqlServer.dll
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.dll
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.Security.dll
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Newtonsoft.Json.dll
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Owin.dll
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Net.Http.Formatting.dll
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.Helpers.dll
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.Http.dll
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.Http.Owin.dll
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.Http.WebHost.dll
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.Mvc.dll
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.Optimization.dll
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.Razor.dll
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.WebPages.dll
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\WebGrease.dll
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Antlr3.Runtime.pdb
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\EntityFramework.xml
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\EntityFramework.SqlServer.xml
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.xml
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.Security.xml
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Newtonsoft.Json.xml
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Net.Http.Formatting.xml
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.Helpers.xml
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.Http.xml
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.Http.Owin.xml
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.Http.WebHost.xml
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.Mvc.xml
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.Optimization.xml
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.Razor.xml
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.WebPages.xml
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\obj\Debug\SPA_MVC_StudentInfo.dll
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\obj\Debug\SPA_MVC_StudentInfo.pdb
+C:\Users\Rahul\documents\visual studio 2013\Projects\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\obj\Debug\SPA_MVC_StudentInfo.csprojResolveAssemblyReference.cache
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\SPA_MVC_StudentInfo.dll.config
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\SPA_MVC_StudentInfo.dll
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\SPA_MVC_StudentInfo.pdb
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Antlr3.Runtime.dll
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\EntityFramework.dll
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\EntityFramework.SqlServer.dll
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.dll
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.Security.dll
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Newtonsoft.Json.dll
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Owin.dll
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Net.Http.Formatting.dll
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.Helpers.dll
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.Http.dll
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.Http.Owin.dll
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.Http.WebHost.dll
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.Mvc.dll
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.Optimization.dll
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.Razor.dll
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.WebPages.dll
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.WebPages.Razor.dll
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\WebGrease.dll
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Antlr3.Runtime.pdb
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\EntityFramework.xml
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\EntityFramework.SqlServer.xml
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.xml
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.Security.xml
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\Newtonsoft.Json.xml
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Net.Http.Formatting.xml
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.Helpers.xml
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.Http.xml
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.Http.Owin.xml
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.Http.WebHost.xml
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.Mvc.xml
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.Optimization.xml
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.Razor.xml
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.WebPages.xml
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\bin\System.Web.WebPages.Razor.xml
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\obj\Debug\SPA_MVC_StudentInfo.dll
+C:\Users\mo\Downloads\SPAMVCStudentInfo\SPA_MVC_StudentInfo\SPA_MVC_StudentInfo\obj\Debug\SPA_MVC_StudentInfo.pdb

@@ -1,0 +1,25 @@
+﻿<div class="row">
+    <div class="col-md-8">
+        <table class="table table-bordered table-responsive">
+            <thead>
+                <tr style="background-color:#F5F5F5;">
+                    <th> ID</th>
+                    <th>Name</th>
+                    <th>Line1 Date Format</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="(key, value) in Tills">
+                    <td>  {{value.tillPrinterID }}</td>
+                    <td>{{value.tillPrintingName}}</td>
+                    <td>{{value.line1DateEn }}</td>
+                    <td><a ng-click="editTill(value.tillPrinterID)">Edit</a></td>
+                    <td><a ng-click="deleteTill(value.tillPrinterID)">Delete</a></td>
+
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

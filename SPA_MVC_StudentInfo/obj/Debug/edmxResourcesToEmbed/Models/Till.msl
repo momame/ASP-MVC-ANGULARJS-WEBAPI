@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CASPackingModelStoreContainer" CdmEntityContainer="CASPackingEntities">
+    <EntitySetMapping Name="TillPrinters">
+      <EntityTypeMapping TypeName="CASPackingModel.TillPrinter">
+        <MappingFragment StoreEntitySet="TillPrinter">
+          <ScalarProperty Name="TillPrinterID" ColumnName="TillPrinterID" />
+          <ScalarProperty Name="TillPrintingName" ColumnName="TillPrintingName" />
+          <ScalarProperty Name="Line1DateEn" ColumnName="Line1DateEn" />
+          <ScalarProperty Name="Line2DateEn" ColumnName="Line2DateEn" />
+          <ScalarProperty Name="Line3DateEn" ColumnName="Line3DateEn" />
+          <ScalarProperty Name="Line1DateIsJulian" ColumnName="Line1DateIsJulian" />
+          <ScalarProperty Name="Line2DateIsJulian" ColumnName="Line2DateIsJulian" />
+          <ScalarProperty Name="Line3DateIsJulian" ColumnName="Line3DateIsJulian" />
+          <ScalarProperty Name="Line1DateFormat" ColumnName="Line1DateFormat" />
+          <ScalarProperty Name="Line2DateFormat" ColumnName="Line2DateFormat" />
+          <ScalarProperty Name="Line3DateFormat" ColumnName="Line3DateFormat" />
+          <ScalarProperty Name="Line1DateOffset" ColumnName="Line1DateOffset" />
+          <ScalarProperty Name="Line2DateOffset" ColumnName="Line2DateOffset" />
+          <ScalarProperty Name="Line3DateOffset" ColumnName="Line3DateOffset" />
+          <ScalarProperty Name="Line1TextPre" ColumnName="Line1TextPre" />
+          <ScalarProperty Name="Line2TextPre" ColumnName="Line2TextPre" />
+          <ScalarProperty Name="Line3TextPre" ColumnName="Line3TextPre" />
+          <ScalarProperty Name="Line1Text" ColumnName="Line1Text" />
+          <ScalarProperty Name="Line2Text" ColumnName="Line2Text" />
+          <ScalarProperty Name="Line3Text" ColumnName="Line3Text" />
+          <ScalarProperty Name="OperatorCodeLine" ColumnName="OperatorCodeLine" />
+          <ScalarProperty Name="CreatedSource" ColumnName="CreatedSource" />
+          <ScalarProperty Name="CreatedDTS" ColumnName="CreatedDTS" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="UpdateSource" ColumnName="UpdateSource" />
+          <ScalarProperty Name="UpdateDTS" ColumnName="UpdateDTS" />
+          <ScalarProperty Name="UpdateBy" ColumnName="UpdateBy" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CASPackingModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="TillPrinter">
+    <Key>
+      <PropertyRef Name="TillPrinterID" />
+    </Key>
+    <Property Name="TillPrinterID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TillPrintingName" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Line1DateEn" Type="Boolean" />
+    <Property Name="Line2DateEn" Type="Boolean" />
+    <Property Name="Line3DateEn" Type="Boolean" />
+    <Property Name="Line1DateIsJulian" Type="Boolean" />
+    <Property Name="Line2DateIsJulian" Type="Boolean" />
+    <Property Name="Line3DateIsJulian" Type="Boolean" />
+    <Property Name="Line1DateFormat" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Line2DateFormat" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Line3DateFormat" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Line1DateOffset" Type="Int32" />
+    <Property Name="Line2DateOffset" Type="Int32" />
+    <Property Name="Line3DateOffset" Type="Int32" />
+    <Property Name="Line1TextPre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Line2TextPre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Line3TextPre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Line1Text" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Line2Text" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Line3Text" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="OperatorCodeLine" Type="Int32" />
+    <Property Name="CreatedSource" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CreatedDTS" Type="DateTimeOffset" Nullable="false" Precision="7" />
+    <Property Name="CreatedBy" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="UpdateSource" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="UpdateDTS" Type="DateTimeOffset" Nullable="false" Precision="7" />
+    <Property Name="UpdateBy" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="CASPackingEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="TillPrinters" EntityType="Self.TillPrinter" />
+  </EntityContainer>
+</Schema>

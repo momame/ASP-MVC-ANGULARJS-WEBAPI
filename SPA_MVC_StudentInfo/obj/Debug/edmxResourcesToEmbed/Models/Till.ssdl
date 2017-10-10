@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CASPackingModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="TillPrinter">
+    <Key>
+      <PropertyRef Name="TillPrinterID" />
+    </Key>
+    <Property Name="TillPrinterID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TillPrintingName" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="Line1DateEn" Type="bit" />
+    <Property Name="Line2DateEn" Type="bit" />
+    <Property Name="Line3DateEn" Type="bit" />
+    <Property Name="Line1DateIsJulian" Type="bit" />
+    <Property Name="Line2DateIsJulian" Type="bit" />
+    <Property Name="Line3DateIsJulian" Type="bit" />
+    <Property Name="Line1DateFormat" Type="varchar" MaxLength="20" />
+    <Property Name="Line2DateFormat" Type="varchar" MaxLength="20" />
+    <Property Name="Line3DateFormat" Type="varchar" MaxLength="20" />
+    <Property Name="Line1DateOffset" Type="int" />
+    <Property Name="Line2DateOffset" Type="int" />
+    <Property Name="Line3DateOffset" Type="int" />
+    <Property Name="Line1TextPre" Type="varchar" MaxLength="50" />
+    <Property Name="Line2TextPre" Type="varchar" MaxLength="50" />
+    <Property Name="Line3TextPre" Type="varchar" MaxLength="50" />
+    <Property Name="Line1Text" Type="varchar" MaxLength="50" />
+    <Property Name="Line2Text" Type="varchar" MaxLength="50" />
+    <Property Name="Line3Text" Type="varchar" MaxLength="50" />
+    <Property Name="OperatorCodeLine" Type="int" />
+    <Property Name="CreatedSource" Type="varchar" MaxLength="50" />
+    <Property Name="CreatedDTS" Type="datetimeoffset" Precision="7" Nullable="false" />
+    <Property Name="CreatedBy" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="UpdateSource" Type="varchar" MaxLength="50" />
+    <Property Name="UpdateDTS" Type="datetimeoffset" Precision="7" Nullable="false" />
+    <Property Name="UpdateBy" Type="varchar" MaxLength="30" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="CASPackingModelStoreContainer">
+    <EntitySet Name="TillPrinter" EntityType="Self.TillPrinter" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
